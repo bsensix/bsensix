@@ -21,7 +21,9 @@
 
 </div><br/>
 
-            
+ ## 📊 GitHub Stats
+![bsensix GitHub stats](https://github-readme-stats.vercel.app/api?username=bsensix&show_icons=true&theme=radical)
+
 
 
  ### Contatos:
